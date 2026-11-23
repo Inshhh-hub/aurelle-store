@@ -1,0 +1,9 @@
+{
+  "name": "aurelle-store",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-powered smart fashion shopping platform (prototype)",
+  "scripts": { "dev": "node scripts/serve.mjs", "start": "node scripts/serve.mjs" },
+  "engines": { "node": ">=18" }
+}
